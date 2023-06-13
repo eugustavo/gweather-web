@@ -2,6 +2,12 @@
 	<img  alt="GWeather Logo"  src="https://github.com/eugustavo/github-badges/assets/25755550/3ad4ee05-7271-4063-94af-a7cb1c233abe"  width="100px" />
 </p>
 
+
+
+<div>
+	<img  alt="GWeather Logo"  src="https://github.com/eugustavo/gweather-web/assets/25755550/5a810141-1718-42aa-8182-a9a22b3866e5" />
+</div>
+
 ## 💻 Projeto
 Esse projeto é um desafio técnico para um vaga de desenvolvedor.
 
